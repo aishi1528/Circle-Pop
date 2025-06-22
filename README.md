@@ -3,7 +3,7 @@
 A quick reflex-based game — just click the red circle as many times as you can before the time runs out!
 
 👉 **Play it here:**  
-https://aishi1528.github.io/circle-clicker
+https://aishi1528.github.io/Circle-Pop/
 
 ---
 
